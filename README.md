@@ -1,4 +1,4 @@
 # git_test
-"Hello Odin!"
-"Life is good"
-Life is a Journey, either you love it or fuck it.
+"Hello Odin!"<br>
+"Life is good"<br>
+"Life is a Journey, either you love it or fuck it."
